@@ -3,3 +3,5 @@ In this project, the training set was created by crawling a marketplace website 
 Used libraries with Python(BeautifulSoup, scikit-learn, Numpy, Pandas and some basic libraries like random,time etc. To imrove the performance of model.
 
 **The project doesnt completed yet.
+
+Serhat Camici
